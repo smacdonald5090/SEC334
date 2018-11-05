@@ -7,6 +7,7 @@ Identity and Access Management / Organizations
 
 1. Explain how to use SCP in AWS Organizations to enforce compliance
   1. Create SCPs to enforce Health Care Compliance
+
 2. Deploy restricted-ssh Config Rule from Console
   1. restricted-ssh Config Rule checks whether security groups that are in use disallow unrestricted incoming SSH traffic.
 
