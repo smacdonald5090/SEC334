@@ -72,14 +72,13 @@ Sign in to the AWS Console
 
 ## Part 2
 
-##
 
 Deploy from Console
 
 restricted-ssh Config Rule - Checks whether security groups that are in use disallow unrestricted incoming SSH traffic.
 
 Purpose - Checks whether security groups that are in use disallow unrestricted incoming SSH traffic.
-
+##
 1. Click Services at the top left hand corner of the screen
 
 2. Type &quot;Config&quot; into the search field in the AWS services section. Hit enter.
