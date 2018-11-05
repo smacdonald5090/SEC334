@@ -1,7 +1,7 @@
 # SEC334
 AWS SEC334 Lab
 
-Lab 1
+# Lab 1
 
 Identity and Access Management / Organizations
 
@@ -10,13 +10,13 @@ Identity and Access Management / Organizations
 2. Deploy restricted-ssh Config Rule from Console
   1. restricted-ssh Config Rule checks whether security groups that are in use disallow unrestricted incoming SSH traffic.
 
-# Part 1
+## Part 1
 
 Explain how to use SCP in AWS Organizations to enforce compliance
 
 Create SCPs to enforce Health Care Compliance
 
-#
+##
 
 Sign in to the AWS Console
 
@@ -69,7 +69,7 @@ Sign in to the AWS Console
 
 
 
-# Part 2
+## Part 2
 
 
 
