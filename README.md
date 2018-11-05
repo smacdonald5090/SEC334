@@ -1,7 +1,7 @@
 # SEC334 Lab Documentation
 AWS SEC334 Labs are sections out between Lab 1 and 2, and their parts.
 
-# Lab 1
+# Lab 1 Description
 
 Identity and Access Management / Organizations
 
